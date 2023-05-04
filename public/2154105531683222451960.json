@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561081361250",
+    "project_id": "pinjolsma2",
+    "storage_bucket": "pinjolsma2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561081361250:android:c1e1d25ce8d114b56e023b",
+        "android_client_info": {
+          "package_name": "com.PinjolTanpaVerifikasiKTPWajahCepatCairMudah.PinjolSMA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561081361250-fd11lgdbu7boa3ncncgkqnt2b8sbe0j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA7KOmlHy0eoNiYDk4DCp8dCe7U3BcEZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561081361250-fd11lgdbu7boa3ncncgkqnt2b8sbe0j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
